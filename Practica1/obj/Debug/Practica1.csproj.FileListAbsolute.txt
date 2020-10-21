@@ -1,0 +1,40 @@
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\obj\Debug\Practica1.Principal.resources
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\obj\Debug\Practica1.Nomina.resources
+C:\Users\wackon\Desktop\C#\Practica1\Practica1\obj\Debug\Practica1.Maquina.resources
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.Vista.resources
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.Maquina.resources
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.Nomina.resources
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.Principal.resources
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\wackon\Desktop\Semestre 5\Dllo de Software Empresarial\Practica1\Practica1\Practica1\obj\Debug\Practica1.Tours.resources
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.Tours.resources
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.Vista.resources
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.Maquina.resources
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.Nomina.resources
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.Principal.resources
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\wackon\Downloads\practica1-C--Ejercicio3\Practica1\Practica1\obj\Debug\Practica1.pdb
